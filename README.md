@@ -18,7 +18,7 @@ The game allows players to control their tanks and use various weapons to destro
 Players can create accounts, log in, and track their gameplay statistics, such as the number of games played, won, and lost, and their kill-death ratio. The MySQL server maintains player data, enabling the generation of leaderboards and other game-related analytics.
 
 ## Demo
-Check out a short video demo of the game [here](https://drive.google.com/file/d/1ex1-Cvdrp8xQuycrHpmtsoV6sxYB4KD-/view?usp=share_link).
+Check out a short video demo of the game [here](https://clipchamp.com/watch/KgvMTwDcmBm?utm_source=share&utm_medium=social&utm_campaign=watch).
 
 ## Future Improvements
 Future improvements to the game could include additional weapons, maps, and game modes. Additionally, enhancements to the matchmaking system could allow for more customized and personalized game experiences.
