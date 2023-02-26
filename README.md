@@ -2,8 +2,8 @@
 
 This is a real-time multiplayer tank battle game developed using the Greenfoot framework for the client-side interface. The game allows multiple players to engage in a battle, where they control tanks and try to eliminate each other to be the last one standing.
 
-![Gameplay screenshot 1](/screenshots/gameplay1.png)
-![Gameplay screenshot 2](/screenshots/gameplay2.png)
+![Gameplay screenshot 1](/gameplay1.png)
+![Gameplay screenshot 2](/gameplay2.png)
 
 ## Features
 - Built a UDP server to manage the communication of packets between players to ensure synchronous gameplay
